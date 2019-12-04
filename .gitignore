@@ -1,0 +1,11 @@
+.DS_Store
+
+*.o
+*.idr~
+*.ibc
+
+*.xcuserstate
+timeline.xctimeline
+playground.xcworkspace
+xcuserdata/
+
